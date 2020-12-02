@@ -1,3 +1,26 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron-image {
+    background-position: center bottom;
+    background-size: cover;
+    object-fit: contain; 
+    height: 65vh;
+    max-height: 65vh;
+    background-image: url(..//img/bg.jpg);
+}
+
+.jumboText1{    
+    font-size: min(max(28px, 11vw), 110px);
+    font-weight: 600;
+
+}
+.jumboText2{    
+    font-size: min(max(24px, 9vw), 100px);
+    font-weight: 500;
+}
+
+}
+
+}
